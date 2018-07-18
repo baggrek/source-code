@@ -1,6 +1,3 @@
-# command-git
-Ketika Command sudah dieksekusi, Anda akan diminta password masuk Horizon Anda. Pastikan ketik command di atas sebelum memulai session baru. 
-
 Upload project
 Di web github, login dan create repository baru sesuai nama aplikasi
 Di komputer
